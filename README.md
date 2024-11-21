@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cobra674
+- 👋 Hi, I’m Akula03[203][UAF][599TFP]
 - 👀 I’m interested in learning how to code in a verrrry easy way that is super quick.
 - 🌱 I’m currently learning nothing.
 - 💞️ I’m looking to collaborate on a tracking and satelite/atlas/map website, where you cna track someone.
